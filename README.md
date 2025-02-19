@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutvik-sutariya&label=Profile%20views&color=0e75b6&style=flat" alt="rutvik-sutariya" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 We are currently building software.
 
-- 💬 Ask me about **rutvikdeveloper1@gmail.com**
+- 💬 Ask me about **eaglepinnacle@gmail.com**
 
 - ⚡ Fun fact **I am funny 😊**
 

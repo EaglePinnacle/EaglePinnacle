@@ -21,7 +21,7 @@
 
 <h2>Our Expertise & Services</h2>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Custom Software Development:</h3>
 
 <p>EaglePinnacle specializes in:</p>
             <li>✔ Custom Software Development</li>

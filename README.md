@@ -21,8 +21,10 @@
 
 <h2>Our Expertise & Services</h2>
 
-<p2 align="left">Custom Software Development:</p2>
+<h3 align="left">Custom Software Development:</h3>
+<li>We develop tailor-made software solutions that streamline operations, enhance productivity, and improve business efficiency. Whether it’s enterprise software, automation tools, or SaaS applications, we build scalable and future-ready systems.t</li>
 
+            
 <p>EaglePinnacle specializes in:</p>
             <li>✔ Custom Software Development</li>
             <li>✔ Web & Mobile App Development</li>

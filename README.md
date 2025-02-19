@@ -47,55 +47,14 @@
 <li>SEO & Content Strategy to improve search engine ranking.</li>
 <li>Social Media & Paid Advertising to drive brand awareness.</li>
 <li>Performance Marketing & Analytics for data-driven growth.</li><br>
-
-
-  <title>Why Choose EaglePinnacle?</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
-        .container {
-            max-width: 600px;
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin: auto;
-        }
-        h2 {
-            color: #333;
-        }
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-        li {
-            background: #007bff;
-            color: white;
-            padding: 10px;
-            margin: 10px 0;
-            border-radius: 5px;
-            font-size: 16px;
-            display: flex;
-            align-items: center;
-        }
-        li::before {
-            content: "✅";
-            margin-right: 10px;
-        }
-    </style>
     
   <h2>Why Choose EaglePinnacle?</h2>
         <ul>
-            <li>✅ Tailored Solutions: We customize each project to fit specific business needs.</li>
-            <li>✅ Cutting-Edge Technology: Leveraging AI, cloud computing, blockchain, and automation.</li>
-            <li>✅ End-to-End Services: From concept to deployment, we handle everything.</li>
-            <li>✅ Security-First Approach: Protecting data, networks, and infrastructure.</li>
-            <li>✅ Client-Centric Focus: Transparent collaboration and dedicated support.</li>
+            <li>✅ Tailored Solutions : We customize each project to fit specific business needs.</li>
+            <li>✅ Cutting-Edge Technology : Leveraging AI, cloud computing, blockchain, and automation.</li>
+            <li>✅ End-to-End Services : From concept to deployment, we handle everything.</li>
+            <li>✅ Security-First Approach : Protecting data, networks, and infrastructure.</li>
+            <li>✅ Client-Centric Focus : Transparent collaboration and dedicated support.</li>
         </ul>
         
                 

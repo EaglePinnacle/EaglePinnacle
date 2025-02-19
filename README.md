@@ -24,19 +24,11 @@
 <h3 align="left">🚀 Custom Software Development:</h3><u>
 <p>We develop tailor-made software solutions that streamline operations, enhance productivity, and improve business efficiency. Whether it’s enterprise software, automation tools, or SaaS applications, we build scalable and future-ready systems</p><br>
 
-<h3 align="left">🌐 Web & Mobile Application Development:</h3><u>
+<u><h3 align="left">🌐 Web & Mobile Application Development:</h3></u>
 <p>Our team crafts high-performance websites and mobile applications that are secure, responsive, and user-friendly. We specialize in:</p>
             <li>Full-stack web development (React, Angular, Node.js, Python, .NET).</li>
             <li>Mobile apps (iOS, Android, and cross-platform solutions like Flutter and React Native).</li>
             <li>E-commerce, CMS, and enterprise web applications.</li><br>
-
-            
-<p>EaglePinnacle specializes in:</p>
-            <li>✔ Custom Software Development</li>
-            <li>✔ Web & Mobile App Development</li>
-            <li>✔ UI/UX Design</li>
-            <li>✔ Network & Server Management</li>
-            <li>✔ Digital Marketing</li>
 
   <h2>📌 Our Expertise</h2>
         <p>Technologies we work with:</p>

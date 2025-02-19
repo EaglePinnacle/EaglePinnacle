@@ -21,10 +21,10 @@
 
 <h2>Our Expertise & Services</h2>
 
-<h3 align="left">🚀 Custom Software Development:</h3><u>
+<h3 align="left">🚀 Custom Software Development:</h3><hr>
 <p>We develop tailor-made software solutions that streamline operations, enhance productivity, and improve business efficiency. Whether it’s enterprise software, automation tools, or SaaS applications, we build scalable and future-ready systems</p><br>
 
-<u><h3 align="left">🌐 Web & Mobile Application Development:</h3></u>
+<hr><h3 align="left">🌐 Web & Mobile Application Development:</h3>
 <p>Our team crafts high-performance websites and mobile applications that are secure, responsive, and user-friendly. We specialize in:</p>
             <li>Full-stack web development (React, Angular, Node.js, Python, .NET).</li>
             <li>Mobile apps (iOS, Android, and cross-platform solutions like Flutter and React Native).</li>

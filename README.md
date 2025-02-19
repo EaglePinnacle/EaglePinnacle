@@ -38,8 +38,8 @@
             <li>✅ Cybersecurity & IT Infrastructure</li>
             <h2>📌 Get in Touch</h2>
             <p>🌐 <a href="https://www.eaglepinnacle.tech" target="_blank">Website</a></p>
-            <p>📧 Email: contact@eaglepinnacle.tech</p>
-            <p>🔗 <a href="#">LinkedIn</a> | <a href="#">Twitter</a></p>
+            <p>📧 Email: it@eaglepinnacle.tech</p>
+        
         
         
 <h3 align="left">Languages and Tools:</h3>

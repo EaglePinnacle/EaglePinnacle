@@ -21,14 +21,33 @@
 
 <h2>Our Expertise & Services</h2>
 
-<h3 align="left">🚀 Custom Software Development:</h3>
+<h3 align="left">🚀 Custom Software Development :</h3>
 <p>We develop tailor-made software solutions that streamline operations, enhance productivity, and improve business efficiency. Whether it’s enterprise software, automation tools, or SaaS applications, we build scalable and future-ready systems</p>
 
-<h3 align="left">🌐 Web & Mobile Application Development:</h3>
+<h3 align="left">🌐 Web & Mobile Application Development :</h3>
 <p>Our team crafts high-performance websites and mobile applications that are secure, responsive, and user-friendly. We specialize in:</p>
-            <li>Full-stack web development (React, Angular, Node.js, Python, .NET).</li>
-            <li>Mobile apps (iOS, Android, and cross-platform solutions like Flutter and React Native).</li>
-            <li>E-commerce, CMS, and enterprise web applications.</li><br>
+<li>Full-stack web development (React, Angular, Node.js, Python, .NET).</li>
+<li>Mobile apps (iOS, Android, and cross-platform solutions like Flutter and React Native).</li>
+<li>E-commerce, CMS, and enterprise web applications.</li><br>
+
+<h3 align="left">🎨 UI/UX Design & Branding :</h3>
+<p>We create intuitive and visually compelling user interfaces that enhance engagement and user satisfaction. Our design approach focuses on usability, accessibility, and seamless interactions, ensuring a superior digital experience.</p>
+
+<h3 align="left">🔗 Network & Server Management :</h3>
+<p>Ensuring a secure and high-performing IT infrastructure, we offer:</p>
+<li>24/7 network monitoring and security solutions.</li>
+<li>Cloud and on-premises server management.</li>
+<li>Disaster recovery and data backup strategies.</li><br>
+
+<h3 align="left">⚙️ IT Consulting & DevOps Solutions :</h3>
+<p>We help businesses optimize their IT strategies by implementing DevOps practices, cloud computing, cybersecurity measures, and infrastructure automation to ensure maximum efficiency, reliability, and security.</p>
+
+<h3 align="left">📈 Digital Marketing & SEO :</h3>
+<p>Our expert marketing team helps businesses enhance their online presence, generate leads, and boost revenue through:</p>
+<li>SEO & Content Strategy to improve search engine ranking.</li>
+<li>Social Media & Paid Advertising to drive brand awareness.</li>
+<li>Performance Marketing & Analytics for data-driven growth.</li><br>
+
 
   <h2>📌 Our Expertise</h2>
         <p>Technologies we work with:</p>

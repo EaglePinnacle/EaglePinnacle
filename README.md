@@ -49,30 +49,22 @@
 <li>Performance Marketing & Analytics for data-driven growth.</li><br>
 
 
-  <h2>📌 Our Expertise</h2>
-        <p>Technologies we work with:</p>
-            <li>✅ Full-Stack Development (React, Angular, Node.js, Python, .NET)</li>
-            <li>✅ Cloud Solutions (AWS, Azure, Google Cloud)</li>
-            <li>✅ DevOps & CI/CD</li>
-            <li>✅ AI & Data Analytics</li>
-            <li>✅ Cybersecurity & IT Infrastructure</li>
-            <h2>📌 Get in Touch</h2>
-            <p>🌐 <a href="https://www.eaglepinnacle.tech" target="_blank">Website</a></p>
-            <p>📧 Email: it@eaglepinnacle.tech</p>
+  <h2>Why Choose EaglePinnacle?</h2>
+        <ul>
+            <li>✅ Tailored Solutions: We customize each project to fit specific business needs.</li>
+            <li>✅ Cutting-Edge Technology: Leveraging AI, cloud computing, blockchain, and automation.</li>
+            <li>✅ End-to-End Services: From concept to deployment, we handle everything.</li>
+            <li>✅ Security-First Approach: Protecting data, networks, and infrastructure.</li>
+            <li>✅ Client-Centric Focus: Transparent collaboration and dedicated support.</li>
+        </ul>
         
-        
+<h2>📌 Our Expertise</h2>
+    <li>✅ Full-Stack Development (React, Angular, Node.js, Python, .NET)</li>
+    <li>✅ Cloud Solutions (AWS, Azure, Google Cloud)</li>
+    <li>✅ DevOps & CI/CD</li>
+    <li>✅ AI & Data Analytics</li>
+    <li>✅ Cybersecurity & IT Infrastructure</li>
 
-  <h2>📌 Our Expertise</h2>
-        <p>Technologies we work with:</p>
-            <li>✅ Full-Stack Development (React, Angular, Node.js, Python, .NET)</li>
-            <li>✅ Cloud Solutions (AWS, Azure, Google Cloud)</li>
-            <li>✅ DevOps & CI/CD</li>
-            <li>✅ AI & Data Analytics</li>
-            <li>✅ Cybersecurity & IT Infrastructure</li>
-            <h2>📌 Get in Touch</h2>
-            <p>🌐 <a href="https://www.eaglepinnacle.tech" target="_blank">Website</a></p>
-            <p>📧 Email: it@eaglepinnacle.tech</p>
-        
 
                 
 <h3 align="left">Languages and Tools:</h3>

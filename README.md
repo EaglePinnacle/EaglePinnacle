@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/company/eaglepinnacle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eaglepinnacle" height="30" width="40" /></a><a href="https://instagram.com/eaglepinnacle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eaglepinnacle" height="30" width="40" /></a>
 </p>
 <h1>🚀 EaglePinnacle | IT Solutions</h1>
-<p>Empowering Businesses with Technology</p>
+<p>EaglePinnacle is an IT company specializing in a variety of technological solutions designed to meet the needs of modern businesses. The company offers services such as:</p>
 
 <h2>📌 Who We Are</h2>
         <p>EaglePinnacle specializes in:</p>

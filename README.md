@@ -19,8 +19,9 @@
 <h1>🚀 EaglePinnacle | IT Solutions</h1>
 <p>EaglePinnacle is a premier IT solutions company dedicated to helping businesses harness the power of technology for growth, efficiency, and competitive advantage. With a strong focus on customization and innovation, EaglePinnacle delivers cutting-edge solutions designed to meet the unique demands of modern enterprises.</p>
 
-<h2>📌 Who We Are</h2>
-        <p>EaglePinnacle specializes in:</p>
+<h2>Our Expertise & Services</h2>
+
+<p>EaglePinnacle specializes in:</p>
             <li>✔ Custom Software Development</li>
             <li>✔ Web & Mobile App Development</li>
             <li>✔ UI/UX Design</li>
